@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*background-color: #FEAA00;*/
+    background-color: white;
+   
+}
+
+
+  .table{
+    justify-content: space-between;
+  }
+  .logo{
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+  }
+  #about{
+    
+    text-align: center;
+    color: green;
+  }
+  .btn{
+    background-color: green;
+    color: black;
+  }
+
+
+/*{
+  box-sizing: border-box;
+}
+.cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.cardss{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+}*/

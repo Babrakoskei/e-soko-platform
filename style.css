@@ -1,0 +1,46 @@
+/*#card1{
+    background-color: skyblue;
+}
+
+#card2{
+  margin-left: 300px;
+   background-color: silver;
+}
+
+#card3{
+margin-bottom: 100px;
+}
+*/
+/*.cards1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10 px;
+}
+.cards2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60 px;
+
+}*/
+
+
+*{
+    box-sizing: border-box;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    justify-content: space-between;
+}
+.cardss{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    justify-content: space-between;
+}
+
